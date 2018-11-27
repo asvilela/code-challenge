@@ -29,7 +29,7 @@ For this development I left a pre-established order.
 4 - Are Pubs registered?
 For this development I considered that all pubs are registered and that the delivery route would be assembled through the address.
 
-### For this development I have considered the collections of data:
+### For this development I have considered the collections of data
 - Routes
 - Pubs
 - Address
