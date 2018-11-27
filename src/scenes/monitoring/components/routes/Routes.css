@@ -1,0 +1,33 @@
+.routes {
+  padding: 20px;
+  border: 0.5px solid #272727;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.routes ul {
+  padding: 0;
+  margin: 0;
+  list-style:none;
+}
+
+.routes ul li { 
+  cursor: pointer;
+  display: inline; 
+  padding: 5px;
+  margin-right: 60px;
+}
+
+.routes ul li span {
+  vertical-align: 5px;
+  margin-left: 5px;
+}
+.order-detail {
+  margin-top: 10px;;
+}
+
+.routes-title {
+  text-align: center;
+  padding: 15px 0 15px 0;
+  font-size: 20px;
+}

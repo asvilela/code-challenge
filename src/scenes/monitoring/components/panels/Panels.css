@@ -1,0 +1,48 @@
+.panels {
+  /* padding: 20px;
+  border: 0.5px solid #272727;
+  border-radius: 5px; */
+  margin-top: 10px;
+}
+
+.panels .container {
+  padding: 20px;
+  border: .5px solid #272727;
+  border-radius: 5px;
+}
+
+.panels table {
+  width: 100%;
+}
+
+.panels table tr td {
+  border: 1px solid #272727;
+  text-align: center;
+}
+
+.panels .container-title {
+  text-align: center;
+  padding: 15px 0 15px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.panel .panel-title {
+  text-align: center;
+  padding: 15px 0 15px 0;
+  font-size: 20px;
+
+}
+
+.open {
+  border-right: 10px solid red !important;
+}
+
+.closed {
+  border-right: 10px solid green !important;
+}
+
+.disabled {
+  pointer-events:none;
+  opacity:0.6;
+}
