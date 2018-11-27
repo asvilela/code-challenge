@@ -28,6 +28,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can’t go back!
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
