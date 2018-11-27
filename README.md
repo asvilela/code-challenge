@@ -16,32 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Folder Structure
 The folder structure was based in article [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)<br>
 
-### Questions
-1 - What is the limit of container per truck / trip?<br>
-For this development I considered only 3 containers per truck / trip.
-
-2 - What is the limit of beer boxes in each container?<br>
-For this development I considered only 100 boxes per container.
-
-3 - What is the logic to build the delivery routes?<br>
-For this development I left a pre-established order.
-
-4 - Are Pubs registered?
-For this development I considered that all pubs are registered and that the delivery route would be assembled through the address.
-
-### For this development I have considered the collections of data
-- Routes
-- Pubs
-- Address
-- Beers
-
-### Suggestion to version 2
-- Pubs registration
-- Intelligent route configurator
-- Create algorithm to fill truck based on Route, Temperature and Beer
-- Dynamic temperature monitor
-
-## In the project directory, you can run:
+In the project directory, you can run:
 
 ### `npm start`
 
