@@ -19,13 +19,13 @@ The folder structure was based in article [How to better organize your React app
   /components
 
 ### Questions
-1 - What is the limit of container per truck / trip?
+1 - What is the limit of container per truck / trip?<br>
 For this development I considered only 3 containers per truck / trip.
 
-2 - What is the limit of beer boxes in each container?
+2 - What is the limit of beer boxes in each container?<br>
 For this development I considered only 100 boxes per container.
 
-3 - What is the logic to build the delivery routes?
+3 - What is the logic to build the delivery routes?<br>
 For this development I left a pre-established order.
 
 4 - Are Pubs registered?
