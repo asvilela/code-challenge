@@ -14,9 +14,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - fontawesome
 
 ### Folder Structure
-The folder structure was based in article [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
-/src
-  /components
+The folder structure was based in article [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)<br>
+/src<br>
+  /components<br>
+  /scenes<br>
+  /service<br>
 
 ### Questions
 1 - What is the limit of container per truck / trip?<br>
