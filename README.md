@@ -2,10 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## PragmaBrewery Code Challenge
 
-### `Language`
+### Language
 - javascript
 
-### `Packages`
+### Packages
 - reactjs
 - react-dom
 - react-router-dom
