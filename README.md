@@ -5,6 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Language`
 Javascript
 
+### `Packages`
+- reactjs
+react-dom
+react-router-dom
+react-script
+react-bootstrap
+fontawesome
+
 In the project directory, you can run:
 
 ### `npm start`
