@@ -35,6 +35,12 @@ For this development I considered that all pubs are registered and that the deli
 - Address
 - Beers
 
+### Suggestion to version 2
+- Pubs registration
+- Intelligent route configurator
+- Create algorithm to fill truck based on Route, Temperature and Beer
+- Dynamic temperature monitor
+
 ## In the project directory, you can run:
 
 ### `npm start`
