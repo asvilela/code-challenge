@@ -13,6 +13,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - react-bootstrap
 - fontawesome
 
+### Folder Structure
+A estrutura de pastas do projeto foi baseada no artigo https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1
+
 In the project directory, you can run:
 
 ### `npm start`
