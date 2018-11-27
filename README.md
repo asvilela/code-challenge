@@ -1,6 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## PragmaBrewery Code Challenge
+
+### Language
+- javascript
+
+### Packages
+- reactjs
+- react-dom
+- react-router-dom
+- react-script
+- react-bootstrap
+- fontawesome
+
+### Folder Structure
+The folder structure was based in article [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)<br>
 
 In the project directory, you can run:
 
@@ -28,6 +42,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can’t go back!
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -37,9 +52,35 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Questions
+1 - What is the limit of container per truck / trip?<br>
+For this development I considered only 3 containers per truck / trip.
+
+2 - What is the limit of beer boxes in each container?<br>
+For this development I considered only 100 boxes per container.
+
+3 - What is the logic to build the delivery routes?<br>
+For this development I left a pre-established order.
+
+4 - Are Pubs registered?
+For this development I considered that all pubs are registered and that the delivery route would be assembled through the address.
+
+### For this development I have considered the collections of data
+- Routes
+- Pubs
+- Address
+- Beers
+
+### Suggestion to version 2
+- Pubs registration
+- Intelligent route configurator
+- Create algorithm to fill truck based on Route, Temperature and Beer
+- Dynamic temperature monitor
+
 # code-challenge
