@@ -15,6 +15,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Folder Structure
 The folder structure was based in article [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
+/src
+  /components
 
 ### Questions
 1 - What is the limit of container per truck / trip?
