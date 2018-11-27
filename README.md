@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## PragmaBrewery Code Challenge
 
+### `Language`
+Javascript
+
 In the project directory, you can run:
 
 ### `npm start`
